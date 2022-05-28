@@ -9,3 +9,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git OpenClash https://github.com/vernesong/OpenClash
+src-git openwrt-bypass https://github.com/kiddin9/openwrt-bypass
